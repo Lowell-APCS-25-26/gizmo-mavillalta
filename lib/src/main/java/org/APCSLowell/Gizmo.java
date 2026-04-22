@@ -7,6 +7,7 @@ public class Gizmo
   /** Returns the name of the manufacturer of this Gizmo. */
   public String getMaker()
   {
+    
     return maker;
   }
   /** Returns true if this Gizmo is electronic, and false
